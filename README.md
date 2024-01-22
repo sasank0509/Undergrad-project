@@ -1,13 +1,16 @@
 # Undergrad-project
 **Plant Disease Detection System using Convolutional Neural Networks (CNN)**
+
 **Project Overview**
+
 Project planning is an essential step in the successful execution of any project, and the development of a plant disease detection system using Convolutional Neural Networks (CNN) is no exception. The primary objective of this project is to create a robust machine learning model capable of accurately identifying various types of plant diseases from images of plants.
 
 **Project Planning**
+
 1.Defining Scope, Objectives, and Deliverables
 The first step in the project planning process involves defining the scope, objectives, and deliverables. This includes identifying the types of plant diseases the system will detect, specifying accuracy levels, and outlining expected deliverables. For this project, the primary deliverables are a trained CNN model and a user-friendly application allowing users to upload plant images and receive disease information.
 
-**2. Project Timeline and Resource Allocation**
+2. Project Timeline and Resource Allocation
 After defining the project scope, objectives, and deliverables, the next crucial step is to develop a project timeline and allocate resources. This entails breaking down the project into smaller tasks, estimating time requirements for each task, and identifying and allocating resources such as computing power, data storage, and personnel. Ensuring realistic and feasible timelines and resource allocation is essential to prevent delays and budget overruns.
 
 **Project Execution**

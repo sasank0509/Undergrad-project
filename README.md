@@ -27,13 +27,13 @@ Building on the success of the current project, a future enhancement involves de
 
 A paper related to this project has been published in the International Conference on ICSCPC held at My undergrad college The paper discusses the methodology, results, and implications of the plant disease detection system.
 
-Paper Repository: The paper is uploaded in the "papers" directory within this repository. You can access it here.
+Paper Repository: The paper is uploaded in the "papers" directory within this repository. 
 
 **Conclusion**
 
 In conclusion, a well-planned project is critical to the success of developing a plant disease detection system using CNN. Defining project scope, objectives, and deliverables, developing a project timeline, and allocating resources are essential steps in the project planning process. Proper planning ensures efficient and effective project execution, with desired deliverables achieved within set timelines and budget constraints.
 
-Make sure to replace "link/to/your/paper" with the actual link to the paper within your repository.
+
 
 
 
